@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Vibe+coding+%E2%9A%A1+AI-driven+development;Сайты+%E2%80%A2+Лендинги+%E2%80%A2+CRM-системы" alt="Typing SVG" />
+  <img src="images/загружено.svg" alt="Typing SVG" />
 </p>
 
 ---
