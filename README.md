@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Привет, я Николай 👋</h1>
 
-<!--
-**sigurt33/sigurt33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🚀 Vibe-coder · Делаю проекты от сайтов до CRM с помощью AI</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Vibe+coding+%E2%9A%A1+AI-driven+development;Сайты+%E2%80%A2+Лендинги+%E2%80%A2+CRM-системы" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Чем занимаюсь
+
+- 🏫 Технический специалист в школе **Zerocoder**
+- 🛠️ Делаю проекты в стиле **вайбкодинга** — от лендингов до CRM-систем
+- 🤖 Работаю в связке с AI-ассистентами: быстро, гибко, по делу
+
+> Идея → прототип за пару дней → итерации → продакшен. Без лишней бюрократии.
+
+---
+
+### 🧰 Стек
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+👉 **Проекты — смотри в репозиториях ниже.**
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sigurt33&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurt33&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 📬 Связаться
+
+<p>
+  <a href="mailto:dibunik@gmail.com"><img src="https://img.shields.io/badge/Email-dibunik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Hotkot19"><img src="https://img.shields.io/badge/Telegram-@Hotkot19-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sigurt33&style=flat-square&color=7C3AED" />
+</p>
